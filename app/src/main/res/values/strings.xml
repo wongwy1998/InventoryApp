@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+
+    <string name="pBarcode">Barcode:</string>
+    <string name="pname">Name:</string>
+    <string name="pCategory">Category:</string>
+    <string name="pDesc">Description:</string>
+    <string name="pQuantity">Quantity:</string>
+    <string name="pPrice">Price:</string>
+    <string name="pExpDate">Expire Date:</string>
+
+
+    <array name="pcategory">
+        <item>Washing component</item>
+        <item>Foods</item>
+        <item>Drinks</item>
+        <item>Kitchen Component</item>
+        <item>Electric Component</item>
+        <item>Snacks</item>
+
+
+    </array>
+</resources>

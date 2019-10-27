@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751864439830",
+    "firebase_url": "https://inventoryapp-8316e.firebaseio.com",
+    "project_id": "inventoryapp-8316e",
+    "storage_bucket": "inventoryapp-8316e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751864439830:android:45d91ac93286c4db61c137",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.inventoryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751864439830-73u051ngvd4bqf8613fcu2nefk0n4fkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.edu.tarc.inventoryapp",
+            "certificate_hash": "38587b0af9f1c48aa0c2204fa14404690893ffdd"
+          }
+        },
+        {
+          "client_id": "751864439830-kofdbbibr3o4frvn3ka1ba78ubbjmrt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWZjQWY-vjUQ_9HbTKgb45XSYrKwRrClI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751864439830-kofdbbibr3o4frvn3ka1ba78ubbjmrt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
